@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>oed_sharing.png</file>
+        <file>oxford.png</file>
+    </qresource>
+</RCC>
